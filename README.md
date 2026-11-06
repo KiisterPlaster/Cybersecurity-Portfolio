@@ -20,6 +20,17 @@ I am an aspiring cybersecurity professional with strong analytical thinking, att
 - Security Auditing
 - Threat Analysis
 
+## Portfolio Contents
+
+- [Professional Statement](./Professional-Statement/README.md)
+- Security Audit
+- Linux Administration
+- SQL Projects
+- Network Security
+- Incident Response
+- Vulnerability Assessments
+- Resume
+
 ## Portfolio Projects
 
 ### Security Audit
